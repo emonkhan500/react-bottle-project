@@ -1,0 +1,12 @@
+.div{
+  display: grid;
+  grid-template-columns:repeat(3,1fr);
+  gap: 15px;
+  
+}
+.div2{
+  display: grid;
+  grid-template-columns:repeat(5,1fr);
+  gap: 15px;
+  
+}

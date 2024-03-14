@@ -1,0 +1,14 @@
+.bottle{
+    border: 3px solid tomato;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.btn{
+    padding: 8px;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+}
